@@ -132,13 +132,23 @@ header {
 
 .calltoaction {
     border-radius: 15px;
-    padding: 30px;
+    padding: 50px;
     min-width: 700px;
     background-color: var(--accent);
     color: var(--text-color1);
     display: flex;
     justify-content: space-between;
     align-items: center;    
+}
+
+.calltoaction p {
+    font-size: 1.3rem;
+    margin: 0;
+}
+
+.calltoaction h2 {
+    margin: 0;
+    font-size: 2rem:
 }
 
 .calltoaction button {
