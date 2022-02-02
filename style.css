@@ -75,6 +75,8 @@ header {
     padding: 25px 250px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .info-block h1 {
@@ -86,8 +88,6 @@ header {
     color: var(--background-color2);
     text-align: center;
     display: flex;
-    align-items: center;
-    justify-content: center;
     font-size: 1.4rem;
     color: var(--text-color3);
 }
