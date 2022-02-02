@@ -16,7 +16,7 @@ body {
 
 header {
     color: var(--text-color1);
-    padding: 25px 200px;
+    padding: 25px 15%;
     background-color: var(--background-color1);
     display: flex;
     justify-content: space-between; 
@@ -35,7 +35,7 @@ header {
 }
 
 .hero-block {
-    padding: 25px 200px;
+    padding: 25px 15%;
     padding-bottom: 100px;
     background-color: var(--background-color1);
     color: var(--text-color1);
@@ -72,7 +72,7 @@ header {
 }
 
 .info-block {
-    padding: 25px 250px;
+    padding: 25px 15%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -109,7 +109,7 @@ header {
 .quote-block {
     color: #1f2937;
     background-color: #e5e7eb;
-    padding: 25px 250px;
+    padding: 25px 15%;
     font-weight: lighter;
 }
 
@@ -125,7 +125,7 @@ header {
 }
 
 .call-block {
-    padding: 50px 250px;
+    padding: 50px 15%;
     display: flex;
     justify-content: center;
 }
@@ -148,7 +148,7 @@ header {
 
 .calltoaction h2 {
     margin: 0;
-    font-size: 2rem:
+    font-size: 2rem;
 }
 
 .calltoaction button {
@@ -162,7 +162,7 @@ header {
 
 footer {
     background-color: var(--background-color1);
-    padding: 15px 250px;
+    padding: 15px 15%;
     text-align: center;
     color: var(--text-color1);
     font-size: 1.5rem;
