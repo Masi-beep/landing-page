@@ -88,6 +88,7 @@ header {
     color: var(--background-color2);
     text-align: center;
     display: flex;
+    justify-content: space-evenly;
     font-size: 1.4rem;
     color: var(--text-color3);
 }
